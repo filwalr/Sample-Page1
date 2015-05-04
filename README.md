@@ -1,5 +1,3 @@
-# Sample-Page1
-Know the Drill
 <!DOCTYPE html>
 <html>
   <head>
